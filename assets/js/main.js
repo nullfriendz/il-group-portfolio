@@ -1,6 +1,11 @@
 // Owl Carousel
 $(document).ready(function () {
-  $(".owl-carousel").owlCarousel();
+  $(".owl-carousel").owlCarousel({
+    loop: true,
+    nav: false,
+    autoplay: true,
+    autoplayTimeout: 3000,
+  });
 });
 
 // Fetch API to get IP address.
