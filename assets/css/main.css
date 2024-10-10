@@ -185,6 +185,7 @@ footer {
   scroll-snap-type: x mandatory;
   gap: 20px;
   padding: 10px;
+  margin-left: 18px;
 }
 
 .team-member {

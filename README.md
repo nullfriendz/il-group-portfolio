@@ -28,3 +28,8 @@ cd il-group-portfolio
 3. M. Alzidan Pratama
 4. Meidiana Hana Putri
 5. M. Afief Anugrah
+
+## Credits
+
+- [Hacker Theme](https://github.com/thelearn-tech/hacker-theme)
+- [ChatGPT](https://chatgpt.com)
